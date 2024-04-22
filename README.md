@@ -1,12 +1,12 @@
 # Yellow Jacket Collection
 ## Description
-[Enter abstract of the collection, often found on the landing page and provided by the project owner]
+The images in this collection consists of documents and photographs created by faculty, students, and staff in the course of operating an archaeological field school intermittently throughout 1955-1991 at an area known as the Joe Ben Wheat Complex, or Yellow Jacket, in southwestern Colorado. Yellow Jacket is notably recognized as one of the most important archaeological remnants of the Mesa Verde branch of Ancestral Puebloan culture. The digital objects available here reflect field documents, field notebooks, and images taken during site projects. All images are sourced from the Yellow Jacket collection in the University of Colorado Museum of Natural History (CUMNH) archives. Collection finding aid available at: [https://archives.colorado.edu/repositories/5/resources/2523](https://archives.colorado.edu/repositories/5/resources/2523)
 
-Permanent address to digital collection: []().<br /> 
+Permanent address to digital collection: [https://doi.org/10.60807/65e0-cb03](https://doi.org/10.60807/65e0-cb03).<br /> 
 Please use the same link when sharing or citing the collection.
 ## Metadata
 ### Collection Name
-Name of the collection:
+Name of the collection: Yellow Jacket Collection
 ### Title
 Title derived from original captions on the work by the creator. If the original title is not available titles are created by the cataloger.
 
